@@ -26,3 +26,8 @@
 3. Navigate to the unzipped repository folder using the `cd` command.
 4. Run the following command to start the frontend: `npm start`
 ### Contact
+
+For any inquiries or questions, you can reach out to me at:
+
+- Email: [ayoubchaouki2004@gmail.com](mailto:ayoubchaouki2004@gmail.com)
+- GitHub: [AyoubChaouki19](https://github.com/AyoubChaouki19)
